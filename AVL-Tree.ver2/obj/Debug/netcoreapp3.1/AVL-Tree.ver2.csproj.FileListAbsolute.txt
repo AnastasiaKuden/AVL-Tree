@@ -1,0 +1,13 @@
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\bin\Debug\netcoreapp3.1\AVL-Tree.ver2.exe
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\bin\Debug\netcoreapp3.1\AVL-Tree.ver2.deps.json
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\bin\Debug\netcoreapp3.1\AVL-Tree.ver2.runtimeconfig.json
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\bin\Debug\netcoreapp3.1\AVL-Tree.ver2.runtimeconfig.dev.json
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\bin\Debug\netcoreapp3.1\AVL-Tree.ver2.dll
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\bin\Debug\netcoreapp3.1\AVL-Tree.ver2.pdb
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\obj\Debug\netcoreapp3.1\AVL-Tree.ver2.csprojAssemblyReference.cache
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\obj\Debug\netcoreapp3.1\AVL-Tree.ver2.csproj.CoreCompileInputs.cache
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\obj\Debug\netcoreapp3.1\AVL-Tree.ver2.AssemblyInfoInputs.cache
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\obj\Debug\netcoreapp3.1\AVL-Tree.ver2.AssemblyInfo.cs
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\obj\Debug\netcoreapp3.1\AVL-Tree.ver2.dll
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\obj\Debug\netcoreapp3.1\AVL-Tree.ver2.pdb
+D:\C# проекты\AVL-Tree\AVL-Tree.ver2\obj\Debug\netcoreapp3.1\AVL-Tree.ver2.genruntimeconfig.cache

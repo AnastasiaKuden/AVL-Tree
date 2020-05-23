@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# проекты\\AVL-Tree\\AVL-Tree\\AVL-Tree.csproj",
-      "projectName": "AVL-Tree",
-      "projectPath": "D:\\C# проекты\\AVL-Tree\\AVL-Tree\\AVL-Tree.csproj",
+      "projectUniqueName": "D:\\C# проекты\\AVL-Tree\\AVL-Tree.ver2\\AVL-Tree.ver2.csproj",
+      "projectName": "AVL-Tree.ver2",
+      "projectPath": "D:\\C# проекты\\AVL-Tree\\AVL-Tree.ver2\\AVL-Tree.ver2.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\C# проекты\\AVL-Tree\\AVL-Tree\\obj\\",
+      "outputPath": "D:\\C# проекты\\AVL-Tree\\AVL-Tree.ver2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

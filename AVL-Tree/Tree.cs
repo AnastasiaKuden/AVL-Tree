@@ -119,12 +119,17 @@ namespace AVL_Tree
             else if (newValue.value >= currentHead.value)
             {
                 currentHead.right = Add(currentHead.right, newValue);
-                currentHead = DoBalance(head);
+                currentHead = DoBalance(currentHead);
             }
             return currentHead;
         }       
 
         //delete
+        public void DeleteAll()
+        {
+            head = null;
+        }
+
         public void Delete(int valueToDelete)
         {
             head = Delete(head, valueToDelete);
@@ -197,7 +202,7 @@ namespace AVL_Tree
                     {   
                         return currentHead.left;
                     }
-                }
+                }                
             }
             return currentHead;
         }
@@ -221,6 +226,48 @@ namespace AVL_Tree
                 Console.Write($"({currentHead.value})");
                 ShowAllTree(currentHead.right);
             }
-        }       
+        }
+
+        public void Find(int valueToFind)
+        {
+            if (Find(valueToFind, head).value == valueToFind)
+            {
+                Console.WriteLine("Число {0} есть!", valueToFind);
+            }
+            else
+            {
+                Console.WriteLine("Нет такого числа!");
+            }
+        }
+
+        private Node Find(int valueToFind, Node currentHead)
+        {
+            if (valueToFind == currentHead.value)
+            {
+                return currentHead;
+            }            
+            else if (valueToFind < currentHead.value)
+            {
+                if (currentHead.left != null)
+                {
+                    return Find(valueToFind, currentHead.left);
+                }
+                else
+                {
+                    return currentHead;
+                }                                                 
+            }
+            else
+            {
+                if (currentHead.right != null)
+                {
+                    return Find(valueToFind, currentHead.right);
+                }
+                else
+                {
+                    return currentHead;
+                }
+            }
+        }
     }
 }
